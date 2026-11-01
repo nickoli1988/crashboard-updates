@@ -1,0 +1,9 @@
+{
+ "edition": "crashboard",
+ "version": "1.2.1",
+ "sha256": "654d3d357cc55883b56f50832d837c24c05122cf326a1cdd992cda0b010a64d7",
+ "url": "crashboard-update.zip",
+ "notes": "Pi screens: the board now fills the whole screen (fixes cut-off / off-centre picture on small HDMI displays such as 7-inch 1024x600).",
+ "date": "2026-11-01",
+ "sig": "b612e12750c0752a420167d76cb6788e0c9e096f90648eb5fdf3afa2f1ae3d703742e33651312eb885e4350b5869a64ec8c686d379417c5101e690b1b3f5cc0f"
+}
