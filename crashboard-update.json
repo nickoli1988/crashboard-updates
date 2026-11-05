@@ -1,9 +1,9 @@
 {
  "edition": "crashboard",
- "version": "1.2.4",
- "sha256": "e7cf5bdc88a79268b980ed4f7fa01a039ff795ce82846c470b30ad5d49607933",
+ "version": "1.2.7",
+ "sha256": "f32ed6a7af79e24076c751eefea9520d6b069a00dbf3deb4340e3791495c47a2",
  "url": "crashboard-update.zip",
- "notes": "Pi speakers: alert sounds now play through the Pi's own sound card (I2S amp kits, HDMI, USB), so ARM AUDIO works on the Pi screen. Says NO SOUND OUTPUT when no speaker is found.",
- "date": "2026-11-01",
- "sig": "8b4e05a405a927abdf0f552125941f29fe9cda8dbc8430ab74ff8fc5e671e6d2ba1ab91d54a4d89e7b89bfa130064a64c033a3ffc962d434fc14e7ba5054e609"
+ "notes": "DSI ribbon-cable screens now work on Pi 5. Spoken alerts in the LL3D voice. Pi speakers and I2S amp kits play alert sounds.",
+ "date": "2026-11-05",
+ "sig": "9de02e270a3ce9e7ba65fdbf8a3dfb48c9363aa3259d1782355a9a6a8b4d99bde32f8bfe536337bd0fbd07c18387c0287f61bdc19fc68168c1445dad0dc29f00"
 }
